@@ -44,5 +44,3 @@ public class Person {
         sc.close();
     }
 }
-
-
